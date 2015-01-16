@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Azure.ServiceBus.EventHub</id>
+    <version>0.2.0.5</version>
+    <title>Microsoft Azure Service Bus Event Hub</title>
+    <authors>Microsoft,Hiu-Ming.Eric.Lam@microsoft.com,abhishek.lal@microsoft.com</authors>
+    <owners>Microsoft,Hiu-Ming.Eric.Lam@microsoft.com,abhishek.lal@microsoft.com</owners>
+    <licenseUrl>http://go.microsoft.com/fwlink/?LinkId=218949</licenseUrl>
+    <projectUrl>http://go.microsoft.com/fwlink/?LinkId=218964</projectUrl>
+    <iconUrl>http://go.microsoft.com/fwlink/?LinkID=288890</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Use this for Microsoft Azure Service Bus Queues, Topics and Event Hubs. 
+It adds Microsoft.ServiceBus.Preview.dll along with related configuration files to your project.</description>
+    <summary>Client library for Windows Azure Service Bus Queues, Topics and Event Hubs.</summary>
+    <releaseNotes>fixes for the following scenarios: dynamic creation/deletion scenarios of ConsumerGroup, EventProcessorHost's blob cleanup and PartitionDescription.EndSequenceNumber property. Also will now throw NotSupportedException for Receive when using Sbmp protocol.</releaseNotes>
+    <language>en-US</language>
+    <tags>ServiceBus Microsoft Azure AppFabric Messaging PubSub Publish Subscribe Queue Topic EventHub Event ingestion Orleans Kafka Storm Service Bus AMQP OASIS windowsazureofficial</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.ServiceModel" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Xml" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Runtime.Serialization" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

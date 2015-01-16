@@ -1,0 +1,25 @@
+C:\TollApp\SourceCode\bin\Debug\TollApp.exe.config
+C:\TollApp\SourceCode\bin\Debug\Queries\Join.txt
+C:\TollApp\SourceCode\bin\Debug\Queries\RefJoin.txt
+C:\TollApp\SourceCode\bin\Debug\Queries\TumblingCount.txt
+C:\TollApp\SourceCode\bin\Debug\Queries\TumblingCountPartitioned.txt
+C:\TollApp\SourceCode\bin\Debug\SqlScripts\CreateTables.sql
+C:\TollApp\SourceCode\bin\Debug\Cleanup.ps1
+C:\TollApp\SourceCode\bin\Debug\Data\Registration.csv
+C:\TollApp\SourceCode\bin\Debug\Data\Entry.csv
+C:\TollApp\SourceCode\bin\Debug\Data\Exit.csv
+C:\TollApp\SourceCode\bin\Debug\Setup.ps1
+C:\TollApp\SourceCode\bin\Debug\TollApp.exe
+C:\TollApp\SourceCode\bin\Debug\TollApp.pdb
+C:\TollApp\SourceCode\bin\Debug\Microsoft.Practices.TransientFaultHandling.Core.dll
+C:\TollApp\SourceCode\bin\Debug\Microsoft.ServiceBus.dll
+C:\TollApp\SourceCode\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\TollApp\SourceCode\bin\Debug\Microsoft.Practices.TransientFaultHandling.Core.xml
+C:\TollApp\SourceCode\bin\Debug\Microsoft.ServiceBus.xml
+C:\TollApp\SourceCode\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\TollApp\SourceCode\obj\Debug\TollApp.csprojResolveAssemblyReference.cache
+C:\TollApp\SourceCode\obj\Debug\TollApp.exe
+C:\TollApp\SourceCode\obj\Debug\TollApp.pdb
+C:\Users\Fleid\Documents\Visual Studio 2013\Projects\ASA_TollApp\SourceCode\bin\Debug\TollApp.exe.config
+C:\Users\Fleid\Documents\Visual Studio 2013\Projects\ASA_TollApp\SourceCode\obj\Debug\TollApp.exe
+C:\Users\Fleid\Documents\Visual Studio 2013\Projects\ASA_TollApp\SourceCode\obj\Debug\TollApp.pdb
