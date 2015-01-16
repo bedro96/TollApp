@@ -23,9 +23,6 @@ C:\TollApp\SourceCode\obj\Debug\TollApp.pdb
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\ASA_TollApp\SourceCode\bin\Debug\TollApp.exe.config
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\ASA_TollApp\SourceCode\obj\Debug\TollApp.exe
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\ASA_TollApp\SourceCode\obj\Debug\TollApp.pdb
-C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debug\TollApp.exe.config
-C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\obj\Debug\TollApp.exe
-C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\obj\Debug\TollApp.pdb
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debug\Queries\Join.txt
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debug\Queries\RefJoin.txt
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debug\Queries\TumblingCount.txt
@@ -36,6 +33,7 @@ C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debu
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debug\Data\Entry.csv
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debug\Data\Exit.csv
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debug\Setup.ps1
+C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debug\TollApp.exe.config
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debug\TollApp.exe
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debug\TollApp.pdb
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debug\Microsoft.Practices.TransientFaultHandling.Core.dll
@@ -44,3 +42,6 @@ C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debu
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debug\Microsoft.Practices.TransientFaultHandling.Core.xml
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debug\Microsoft.ServiceBus.xml
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\obj\Debug\TollApp.csprojResolveAssemblyReference.cache
+C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\obj\Debug\TollApp.exe
+C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\obj\Debug\TollApp.pdb

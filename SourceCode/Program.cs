@@ -9,13 +9,6 @@ using System.Text;
 using System.Threading;
 using Microsoft.ServiceBus.Messaging;
 
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-using Microsoft.ServiceBus.Samples.SessionMessages;
-using Newtonsoft.Json;
-
 namespace TollApp
 {
     public class Program
@@ -84,15 +77,8 @@ namespace TollApp
                     if (e is EntryEvent)
                     {
 
-                        //EventData payload = new EventData(Encoding.UTF8.GetBytes(e.Format())) { PartitionKey = e.TollId.ToString() };
-                       // entryEventHub.Send(payload);
-
-                        MetricEvent info = new MetricEvent() { DeviceId = random.Next(numberOfDevices), Temperature = random.Next(100) };
-                        var serializedString = JsonConvert.SerializeObject(info);
-                        EventData data = new EventData(Encoding.UTF8.GetBytes(serializedString))
-                        {
-                            PartitionKey = info.DeviceId.ToString()
-                        };
+                        EventData payload = new EventData(Encoding.UTF8.GetBytes(e.Format())) { PartitionKey = e.TollId.ToString() };
+                        entryEventHub.Send(payload);
 
                     }
                     else
