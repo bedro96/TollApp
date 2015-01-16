@@ -45,3 +45,5 @@ C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debu
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\obj\Debug\TollApp.csprojResolveAssemblyReference.cache
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\obj\Debug\TollApp.exe
 C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\obj\Debug\TollApp.pdb
+C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fleid\Documents\Visual Studio 2013\Projects\TollApp\SourceCode\bin\Debug\Newtonsoft.Json.xml

@@ -8,6 +8,7 @@ using System;
 using System.Text;
 using System.Threading;
 using Microsoft.ServiceBus.Messaging;
+using Newtonsoft.Json;
 
 namespace TollApp
 {
@@ -76,8 +77,9 @@ namespace TollApp
                 {
                     if (e is EntryEvent)
                     {
-
-                        EventData payload = new EventData(Encoding.UTF8.GetBytes(e.Format())) { PartitionKey = e.TollId.ToString() };
+                        var serializedString = JsonConvert.SerializeObject(e);
+                        EventData payload = new EventData(Encoding.UTF8.GetBytes(serializedString)) { PartitionKey = e.TollId.ToString() };
+                        //EventData payload = new EventData(Encoding.UTF8.GetBytes(e.Format())) { PartitionKey = e.TollId.ToString() };
                         entryEventHub.Send(payload);
 
                     }
